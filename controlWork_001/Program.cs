@@ -4,4 +4,14 @@
 
 string[] array = {"hello", "2", "world", ":-)" };
 string[] massiv = new string [array.Length];
+int count = 0;
+
+for (int i = 0; i < array.Length; i++)
+{
+    if (array[i].Length <= 3)
+    {
+        massiv[count] = array[i];
+        count++;
+    }
+}
 
