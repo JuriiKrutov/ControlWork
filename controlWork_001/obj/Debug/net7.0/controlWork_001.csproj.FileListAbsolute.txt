@@ -1,0 +1,15 @@
+D:\lerning programming\geek brains\ControlWork\controlWork_001\bin\Debug\net7.0\controlWork_001.exe
+D:\lerning programming\geek brains\ControlWork\controlWork_001\bin\Debug\net7.0\controlWork_001.deps.json
+D:\lerning programming\geek brains\ControlWork\controlWork_001\bin\Debug\net7.0\controlWork_001.runtimeconfig.json
+D:\lerning programming\geek brains\ControlWork\controlWork_001\bin\Debug\net7.0\controlWork_001.dll
+D:\lerning programming\geek brains\ControlWork\controlWork_001\bin\Debug\net7.0\controlWork_001.pdb
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.csproj.AssemblyReference.cache
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.AssemblyInfoInputs.cache
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.AssemblyInfo.cs
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.csproj.CoreCompileInputs.cache
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.dll
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\refint\controlWork_001.dll
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.pdb
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\controlWork_001.genruntimeconfig.cache
+D:\lerning programming\geek brains\ControlWork\controlWork_001\obj\Debug\net7.0\ref\controlWork_001.dll

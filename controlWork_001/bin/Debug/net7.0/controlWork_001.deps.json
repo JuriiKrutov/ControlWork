@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "controlWork_001/1.0.0": {
+        "runtime": {
+          "controlWork_001.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "controlWork_001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

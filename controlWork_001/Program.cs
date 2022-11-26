@@ -7,7 +7,7 @@ void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        System.Console.Write(array[i]);
+        System.Console.Write($"{array[i]} ");
     }
 }
 
@@ -24,3 +24,6 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 
+PrintArray(array);
+System.Console.WriteLine();
+PrintArray(massiv);
